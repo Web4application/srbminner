@@ -1,0 +1,696 @@
+2025-Oct-17 04:33:21.979344 [tid:0x1f9d2b200] Plain wallet initialized: Zano v2.1.7.424[9aaa0f8], log location: /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/logs/plain_wallet.log
+2025-Oct-17 04:33:21.983462 [tid:0x1f9d2b200] Initing...
+2025-Oct-17 04:33:21.983819 [tid:0x1f9d2b200] Detecting APPDIR... 
+2025-Oct-17 04:33:21.984254 [tid:0x1f9d2b200] [INIT PLAIN_WALLET_INSTANCE] Ver:2.1.7.424[9aaa0f8](Release)
+Working dir: /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents
+URL: https://zano.api.wombat.systems,  port: 443
+2025-Oct-17 04:33:26.058762 [tid:0x16deab000] [BACKEND_M]Failed to call get_info
+2025-Oct-17 04:33:40.070955 [tid:0x16deab000] [BACKEND_M]Failed to call get_info
+2025-Oct-17 04:33:54.296188 [tid:0x16deab000] [BACKEND_M]Failed to call get_info
+2025-Oct-17 07:35:05.329280 [tid:0x1f9d2b200] Plain wallet initialized: Zano v2.1.7.424[9aaa0f8], log location: /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/logs/plain_wallet.log
+2025-Oct-17 07:35:05.331019 [tid:0x1f9d2b200] Initing...
+2025-Oct-17 07:35:05.331310 [tid:0x1f9d2b200] Detecting APPDIR... 
+2025-Oct-17 07:35:05.331743 [tid:0x1f9d2b200] [INIT PLAIN_WALLET_INSTANCE] Ver:2.1.7.424[9aaa0f8](Release)
+Working dir: /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents
+URL: https://zano.api.wombat.systems,  port: 443
+2025-Oct-17 08:32:06.924596 [tid:0x1f9d2b200] Plain wallet initialized: Zano v2.1.7.424[9aaa0f8], log location: /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/logs/plain_wallet.log
+2025-Oct-17 08:32:06.926328 [tid:0x1f9d2b200] Initing...
+2025-Oct-17 08:32:06.926575 [tid:0x1f9d2b200] Detecting APPDIR... 
+2025-Oct-17 08:32:06.927175 [tid:0x1f9d2b200] [INIT PLAIN_WALLET_INSTANCE] Ver:2.1.7.424[9aaa0f8](Release)
+Working dir: /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents
+URL: https://zano.api.wombat.systems,  port: 443
+2025-Oct-17 08:35:06.698259 [tid:0x16f6ef000] [DEFFERED_MODE]: 1
+2025-Oct-17 08:35:06.704398 [tid:0x16f6ef000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:35:06.706643 [tid:0x16f6ef000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686506 ...
+2025-Oct-17 08:35:06.719595 [tid:0x16f6ef000] Serializing file with ver: 168
+2025-Oct-17 08:35:06.720978 [tid:0x16f6ef000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686506, file size=527
+2025-Oct-17 08:35:06.723534 [tid:0x16f6ef000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=527 blockchain_size: 1
+2025-Oct-17 08:35:07.900866 [tid:0x16f6ef000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1176ms
+2025-Oct-17 08:35:07.901518 [tid:0x16fbdb000] [WALLET_HANDLER] Wallet handler thread started, addr: ZxD6cpNjDCFeKvNGJPy2HvGdQ2CGpqxpYELd5wg6GdWJ5GH17cNJY2MCaM273VU7fKQYv2V5rzFjYR4HkF3GdnCX2XEraf4CC
+2025-Oct-17 08:35:08.315437 [tid:0x16fbdb000] Wallet is getting fully resynced due to lookup_item_around failed at 3382419
+2025-Oct-17 08:35:08.315590 [tid:0x16fbdb000] [W:ZxD6cp] Detaching blockchain on height 1
+2025-Oct-17 08:35:08.315630 [tid:0x16fbdb000] [W:ZxD6cp] Detached blockchain on height 1, transfers detached 0, blocks detached 0, new top: 00000.. @ 0
+2025-Oct-17 08:35:09.489359 [tid:0x16fbdb000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1587ms
+2025-Oct-17 08:35:11.257732 [tid:0x16fbdb000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1768ms
+2025-Oct-17 08:35:18.034459 [tid:0x16fbdb000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 941ms
+2025-Oct-17 08:35:18.417115 [tid:0x16f6ef000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1093ms
+2025-Oct-17 08:35:20.827908 [tid:0x16f6ef000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:35:20.828504 [tid:0x16f6ef000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686520 ...
+2025-Oct-17 08:35:20.834336 [tid:0x16f6ef000] Serializing file with ver: 168
+2025-Oct-17 08:35:20.835186 [tid:0x16f6ef000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686520, file size=2016
+2025-Oct-17 08:35:20.838182 [tid:0x16f6ef000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=2016 blockchain_size: 3382420
+2025-Oct-17 08:35:24.867771 [tid:0x16fbdb000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 805ms
+2025-Oct-17 08:35:30.865221 [tid:0x16fbdb000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 807ms
+2025-Oct-17 08:35:37.309442 [tid:0x16fbdb000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1257ms
+2025-Oct-17 08:35:43.843260 [tid:0x16fbdb000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 809ms
+2025-Oct-17 08:35:49.809892 [tid:0x16fbdb000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 783ms
+2025-Oct-17 08:35:51.618922 [tid:0x16f663000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:35:51.620264 [tid:0x16f663000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686551 ...
+2025-Oct-17 08:35:51.632509 [tid:0x16f663000] Serializing file with ver: 168
+2025-Oct-17 08:35:51.633685 [tid:0x16f663000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686551, file size=2016
+2025-Oct-17 08:35:51.638628 [tid:0x16f663000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=2016 blockchain_size: 3382420
+2025-Oct-17 08:35:55.845009 [tid:0x16fbdb000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 833ms
+2025-Oct-17 08:36:01.940039 [tid:0x16fbdb000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 887ms
+2025-Oct-17 08:36:07.907539 [tid:0x16fbdb000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 863ms
+2025-Oct-17 08:36:13.836030 [tid:0x16fbdb000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 836ms
+2025-Oct-17 08:36:19.897171 [tid:0x16fbdb000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 855ms
+2025-Oct-17 08:36:22.098770 [tid:0x16f6ef000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:36:22.099505 [tid:0x16f6ef000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686582 ...
+2025-Oct-17 08:36:22.111917 [tid:0x16f6ef000] Serializing file with ver: 168
+2025-Oct-17 08:36:22.112938 [tid:0x16f6ef000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686582, file size=2016
+2025-Oct-17 08:36:22.115465 [tid:0x16f6ef000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=2016 blockchain_size: 3382420
+2025-Oct-17 08:36:26.862309 [tid:0x16fbdb000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1758ms
+2025-Oct-17 08:36:32.230447 [tid:0x1f9d2b200] Plain wallet initialized: Zano v2.1.7.424[9aaa0f8], log location: /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/logs/plain_wallet.log
+2025-Oct-17 08:36:32.231041 [tid:0x1f9d2b200] Initing...
+2025-Oct-17 08:36:32.231078 [tid:0x1f9d2b200] Detecting APPDIR... 
+2025-Oct-17 08:36:32.231166 [tid:0x1f9d2b200] [INIT PLAIN_WALLET_INSTANCE] Ver:2.1.7.424[9aaa0f8](Release)
+Working dir: /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents
+URL: https://zano.api.wombat.systems,  port: 443
+2025-Oct-17 08:36:32.322209 [tid:0x16cab3000] [DEFFERED_MODE]: 1
+2025-Oct-17 08:36:32.324956 [tid:0x16cab3000] [W:ZxD6cp] Loaded wallet file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039 with public address ZxD6cpNjDCFeKvNGJPy2HvGdQ2CGpqxpYELd5wg6GdWJ5GH17cNJY2MCaM273VU7fKQYv2V5rzFjYR4HkF3GdnCX2XEraf4CC, file_size: 2016, blockchain_size: 3382420
+2025-Oct-17 08:36:32.325070 [tid:0x16cab3000] [ASSET_WHITELISTING_MODE]: 1
+2025-Oct-17 08:36:33.142734 [tid:0x16cab3000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 818ms
+2025-Oct-17 08:36:33.143278 [tid:0x16cf13000] [WALLET_HANDLER] Wallet handler thread started, addr: ZxD6cpNjDCFeKvNGJPy2HvGdQ2CGpqxpYELd5wg6GdWJ5GH17cNJY2MCaM273VU7fKQYv2V5rzFjYR4HkF3GdnCX2XEraf4CC
+2025-Oct-17 08:36:34.448780 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 852ms
+2025-Oct-17 08:36:37.802654 [tid:0x16be1f000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:36:37.804485 [tid:0x16be1f000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686597 ...
+2025-Oct-17 08:36:37.811768 [tid:0x16be1f000] Serializing file with ver: 168
+2025-Oct-17 08:36:37.813534 [tid:0x16be1f000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686597, file size=2016
+2025-Oct-17 08:36:37.818669 [tid:0x16be1f000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=2016 blockchain_size: 3382420
+2025-Oct-17 08:36:42.064847 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1993ms
+2025-Oct-17 08:36:42.065706 [tid:0x16c27f000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1362ms
+2025-Oct-17 08:36:49.216303 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1214ms
+2025-Oct-17 08:36:58.594001 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 3524ms
+2025-Oct-17 08:37:05.383022 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1379ms
+2025-Oct-17 08:37:08.451496 [tid:0x16bd93000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:37:08.453732 [tid:0x16bd93000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686628 ...
+2025-Oct-17 08:37:08.468443 [tid:0x16bd93000] Serializing file with ver: 168
+2025-Oct-17 08:37:08.470075 [tid:0x16bd93000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686628, file size=2016
+2025-Oct-17 08:37:08.478110 [tid:0x16bd93000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=2016 blockchain_size: 3382420
+2025-Oct-17 08:37:11.804651 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 795ms
+2025-Oct-17 08:37:18.111340 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1106ms
+2025-Oct-17 08:37:28.649338 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 4613ms
+2025-Oct-17 08:37:32.685021 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 916ms
+2025-Oct-17 08:37:42.967256 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 4866ms
+2025-Oct-17 08:37:42.968884 [tid:0x16be1f000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 936ms
+2025-Oct-17 08:37:43.244722 [tid:0x16be1f000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:37:43.246885 [tid:0x16be1f000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686663 ...
+2025-Oct-17 08:37:43.261535 [tid:0x16be1f000] Serializing file with ver: 168
+2025-Oct-17 08:37:43.262953 [tid:0x16be1f000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686663, file size=2016
+2025-Oct-17 08:37:43.270721 [tid:0x16be1f000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=2016 blockchain_size: 3382420
+2025-Oct-17 08:37:50.948366 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 4865ms
+2025-Oct-17 08:37:50.950222 [tid:0x16be1f000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 4138ms
+2025-Oct-17 08:37:58.059581 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 986ms
+2025-Oct-17 08:38:05.013757 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 915ms
+2025-Oct-17 08:38:11.890605 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 834ms
+2025-Oct-17 08:38:13.774047 [tid:0x16c0db000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:38:13.776213 [tid:0x16c0db000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686693 ...
+2025-Oct-17 08:38:13.790744 [tid:0x16c0db000] Serializing file with ver: 168
+2025-Oct-17 08:38:13.792160 [tid:0x16c0db000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686693, file size=2016
+2025-Oct-17 08:38:13.799862 [tid:0x16c0db000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=2016 blockchain_size: 3382420
+2025-Oct-17 08:38:22.419884 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 5326ms
+2025-Oct-17 08:38:22.423597 [tid:0x16c76b000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 3007ms
+2025-Oct-17 08:38:29.074353 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1026ms
+2025-Oct-17 08:38:36.028724 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 999ms
+2025-Oct-17 08:38:42.893014 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 836ms
+2025-Oct-17 08:38:51.628868 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 3560ms
+2025-Oct-17 08:38:53.129028 [tid:0x16bd93000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:38:53.131316 [tid:0x16bd93000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686733 ...
+2025-Oct-17 08:38:53.145426 [tid:0x16bd93000] Serializing file with ver: 168
+2025-Oct-17 08:38:53.146838 [tid:0x16bd93000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686733, file size=2016
+2025-Oct-17 08:38:53.154188 [tid:0x16bd93000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=2016 blockchain_size: 3382420
+2025-Oct-17 08:38:57.855841 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 835ms
+2025-Oct-17 08:39:04.602418 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1556ms
+2025-Oct-17 08:39:10.863243 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 839ms
+2025-Oct-17 08:39:16.925025 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 845ms
+2025-Oct-17 08:39:23.249132 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1216ms
+2025-Oct-17 08:39:23.709537 [tid:0x16bd93000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:39:23.711287 [tid:0x16bd93000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686763 ...
+2025-Oct-17 08:39:23.724471 [tid:0x16bd93000] Serializing file with ver: 168
+2025-Oct-17 08:39:23.725938 [tid:0x16bd93000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686763, file size=2016
+2025-Oct-17 08:39:23.731242 [tid:0x16bd93000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=2016 blockchain_size: 3382420
+2025-Oct-17 08:39:30.317610 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1220ms
+2025-Oct-17 08:39:36.912425 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 855ms
+2025-Oct-17 08:39:43.045697 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1018ms
+2025-Oct-17 08:39:49.902002 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 820ms
+2025-Oct-17 08:39:54.291805 [tid:0x16cb3f000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:39:54.292980 [tid:0x16cb3f000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686794 ...
+2025-Oct-17 08:39:54.305478 [tid:0x16cb3f000] Serializing file with ver: 168
+2025-Oct-17 08:39:54.306415 [tid:0x16cb3f000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686794, file size=2016
+2025-Oct-17 08:39:54.309521 [tid:0x16cb3f000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=2016 blockchain_size: 3382420
+2025-Oct-17 08:39:55.877134 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 871ms
+2025-Oct-17 08:40:01.869549 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 791ms
+2025-Oct-17 08:40:07.872038 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 795ms
+2025-Oct-17 08:40:13.926345 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 857ms
+2025-Oct-17 08:40:19.883950 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 872ms
+2025-Oct-17 08:40:24.759507 [tid:0x16c883000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:40:24.761196 [tid:0x16c883000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686824 ...
+2025-Oct-17 08:40:24.766331 [tid:0x16c883000] Serializing file with ver: 168
+2025-Oct-17 08:40:24.767610 [tid:0x16c883000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686824, file size=2016
+2025-Oct-17 08:40:24.772906 [tid:0x16c883000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=2016 blockchain_size: 3382420
+2025-Oct-17 08:40:26.065840 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 983ms
+2025-Oct-17 08:40:32.898247 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 807ms
+2025-Oct-17 08:40:38.924085 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 832ms
+2025-Oct-17 08:40:44.964378 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 940ms
+2025-Oct-17 08:40:51.849446 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1786ms
+2025-Oct-17 08:40:51.850231 [tid:0x16cb3f000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1225ms
+2025-Oct-17 08:40:55.225726 [tid:0x16cbcb000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:40:55.227959 [tid:0x16cbcb000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686855 ...
+2025-Oct-17 08:40:55.241622 [tid:0x16cbcb000] Serializing file with ver: 168
+2025-Oct-17 08:40:55.242288 [tid:0x16cbcb000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686855, file size=2016
+2025-Oct-17 08:40:55.245014 [tid:0x16cbcb000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=2016 blockchain_size: 3382420
+2025-Oct-17 08:40:57.932795 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 889ms
+2025-Oct-17 08:41:03.858909 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 842ms
+2025-Oct-17 08:41:10.963463 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1902ms
+2025-Oct-17 08:41:16.950646 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 879ms
+2025-Oct-17 08:41:16.950815 [tid:0x16be1f000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 637ms
+2025-Oct-17 08:41:22.928709 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 890ms
+2025-Oct-17 08:41:25.892859 [tid:0x16c7f7000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:41:25.894932 [tid:0x16c7f7000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686885 ...
+2025-Oct-17 08:41:25.908499 [tid:0x16c7f7000] Serializing file with ver: 168
+2025-Oct-17 08:41:25.910046 [tid:0x16c7f7000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686885, file size=2016
+2025-Oct-17 08:41:25.917310 [tid:0x16c7f7000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=2016 blockchain_size: 3382420
+2025-Oct-17 08:41:29.920149 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1874ms
+2025-Oct-17 08:41:35.857751 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 830ms
+2025-Oct-17 08:41:41.911257 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 844ms
+2025-Oct-17 08:41:48.084209 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 987ms
+2025-Oct-17 08:41:55.500335 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1477ms
+2025-Oct-17 08:41:56.437030 [tid:0x16d1cf000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:41:56.437786 [tid:0x16d1cf000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686916 ...
+2025-Oct-17 08:41:56.450294 [tid:0x16d1cf000] Serializing file with ver: 168
+2025-Oct-17 08:41:56.450757 [tid:0x16d1cf000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686916, file size=2016
+2025-Oct-17 08:41:56.452922 [tid:0x16d1cf000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=2016 blockchain_size: 3382420
+2025-Oct-17 08:42:03.487129 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2457ms
+2025-Oct-17 08:42:11.041094 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2023ms
+2025-Oct-17 08:42:14.092097 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2946ms
+2025-Oct-17 08:42:18.780729 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1778ms
+2025-Oct-17 08:42:24.956614 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 877ms
+2025-Oct-17 08:42:26.982165 [tid:0x16c883000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:42:26.983725 [tid:0x16c883000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686946 ...
+2025-Oct-17 08:42:26.996112 [tid:0x16c883000] Serializing file with ver: 168
+2025-Oct-17 08:42:26.996891 [tid:0x16c883000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686946, file size=2246
+2025-Oct-17 08:42:27.006866 [tid:0x16c883000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=2246 blockchain_size: 3382422
+2025-Oct-17 08:42:31.026376 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 966ms
+2025-Oct-17 08:42:38.495773 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1440ms
+2025-Oct-17 08:42:45.447391 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1347ms
+2025-Oct-17 08:42:53.177667 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2117ms
+2025-Oct-17 08:42:53.177917 [tid:0x16d143000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 889ms
+2025-Oct-17 08:42:57.496458 [tid:0x16c27f000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:42:57.498627 [tid:0x16c27f000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686977 ...
+2025-Oct-17 08:42:57.512193 [tid:0x16c27f000] Serializing file with ver: 168
+2025-Oct-17 08:42:57.513839 [tid:0x16c27f000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760686977, file size=2246
+2025-Oct-17 08:42:57.521680 [tid:0x16c27f000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=2246 blockchain_size: 3382422
+2025-Oct-17 08:42:59.861730 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 843ms
+2025-Oct-17 08:43:05.966778 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 913ms
+2025-Oct-17 08:43:11.979520 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 907ms
+2025-Oct-17 08:43:18.108490 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1024ms
+2025-Oct-17 08:43:25.283895 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1247ms
+2025-Oct-17 08:43:28.105621 [tid:0x16c27f000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:43:28.107655 [tid:0x16c27f000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687008 ...
+2025-Oct-17 08:43:28.122190 [tid:0x16c27f000] Serializing file with ver: 168
+2025-Oct-17 08:43:28.123678 [tid:0x16c27f000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687008, file size=2246
+2025-Oct-17 08:43:28.131356 [tid:0x16c27f000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=2246 blockchain_size: 3382422
+2025-Oct-17 08:43:32.064779 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 964ms
+2025-Oct-17 08:43:42.007190 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 4004ms
+2025-Oct-17 08:43:51.941922 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 789ms
+2025-Oct-17 08:43:57.933235 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 901ms
+2025-Oct-17 08:43:58.506111 [tid:0x16bfc3000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:43:58.507118 [tid:0x16bfc3000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687038 ...
+2025-Oct-17 08:43:58.515953 [tid:0x16bfc3000] Serializing file with ver: 168
+2025-Oct-17 08:43:58.516759 [tid:0x16bfc3000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687038, file size=2246
+2025-Oct-17 08:43:58.519448 [tid:0x16bfc3000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=2246 blockchain_size: 3382422
+2025-Oct-17 08:44:03.972255 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 880ms
+2025-Oct-17 08:44:09.925725 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 870ms
+2025-Oct-17 08:44:15.836347 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 818ms
+2025-Oct-17 08:44:24.465676 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2168ms
+2025-Oct-17 08:44:27.613929 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 556ms
+2025-Oct-17 08:44:29.105173 [tid:0x16bfc3000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:44:29.107184 [tid:0x16bfc3000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687069 ...
+2025-Oct-17 08:44:29.119576 [tid:0x16bfc3000] Serializing file with ver: 168
+2025-Oct-17 08:44:29.121168 [tid:0x16bfc3000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687069, file size=2402
+2025-Oct-17 08:44:29.128451 [tid:0x16bfc3000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=2402 blockchain_size: 3382424
+2025-Oct-17 08:44:34.455024 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1747ms
+2025-Oct-17 08:44:37.274259 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2819ms
+2025-Oct-17 08:44:45.486930 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2400ms
+2025-Oct-17 08:44:52.051646 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 955ms
+2025-Oct-17 08:44:59.684802 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1613ms
+2025-Oct-17 08:45:00.604424 [tid:0x16bd93000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:45:00.605066 [tid:0x16bd93000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687100 ...
+2025-Oct-17 08:45:00.614264 [tid:0x16bd93000] Serializing file with ver: 168
+2025-Oct-17 08:45:00.614686 [tid:0x16bd93000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687100, file size=2557
+2025-Oct-17 08:45:00.616461 [tid:0x16bd93000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=2557 blockchain_size: 3382426
+2025-Oct-17 08:45:05.911584 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 836ms
+2025-Oct-17 08:45:11.831703 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 830ms
+2025-Oct-17 08:45:17.802698 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 788ms
+2025-Oct-17 08:45:23.860224 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 778ms
+2025-Oct-17 08:45:29.885518 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 838ms
+2025-Oct-17 08:45:31.102318 [tid:0x16be1f000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:45:31.104208 [tid:0x16be1f000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687131 ...
+2025-Oct-17 08:45:31.112727 [tid:0x16be1f000] Serializing file with ver: 168
+2025-Oct-17 08:45:31.113479 [tid:0x16be1f000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687131, file size=2557
+2025-Oct-17 08:45:31.117383 [tid:0x16be1f000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=2557 blockchain_size: 3382426
+2025-Oct-17 08:45:35.892822 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 802ms
+2025-Oct-17 08:45:37.923543 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1614ms
+2025-Oct-17 08:45:41.849442 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 808ms
+2025-Oct-17 08:45:50.094813 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 3039ms
+2025-Oct-17 08:46:00.032690 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 4002ms
+2025-Oct-17 08:46:06.088922 [tid:0x16cf13000] [ERROR] Location: 
+[get_tx_expiration_median] @ /Users/jumpei.katayama/repo/github.com/hyle-team/zano_native_lib/Zano/src/wallet/wallet2.cpp:7595
+STACK
+1   zano_ios                            0x000000010d29e000 _ZNK5tools7wallet224get_tx_expiration_medianEv + 372
+2   zano_ios                            0x000000010d29c8c0 _ZN5tools7wallet234scan_not_compliant_unconfirmed_txsEv + 56
+3   zano_ios                            0x000000010d287948 _ZN5tools7wallet27refreshERmRbRNSt3__16atomicIbEE + 2080
+4   zano_ios                            0x000000010d2880ec _ZN5tools7wallet27refreshERNSt3__16atomicIbEE + 28
+5   zano_ios                            0x000000010d4dc48c _ZN15wallets_manager17wallet_vs_options11worker_funcEv + 1920
+6   zano_ios                            0x000000010d4ec204 _ZNSt3__114__thread_proxyB8ne200100INS_5tupleIJNS_10unique_ptrINS_15__thread_structENS_14default_deleteIS3_EEEEN5boost3_bi6bind_tIvNS7_4_mfi3mf0IvN15wallets_manager17wallet_vs_optionsEEENS8_5list1INS8_5valueIPSD_EEEEEEEEEEEPvSM_ + 72
+7   libsystem_pthread.dylib             0x00000001ea721424 _pthread_start + 136
+8   libsystem_pthread.dylib             0x00000001ea71d8cc thread_start + 8
+ Message:
+[W:ZxD6cp] COMMAND_RPC_GET_CURRENT_CORE_TX_EXPIRATION_MEDIAN failed, status: 
+2025-Oct-17 08:46:06.820439 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 5677ms
+2025-Oct-17 08:46:07.617957 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 797ms
+2025-Oct-17 08:46:14.847356 [tid:0x16ca27000] [BACKEND_M]Failed to call get_info
+2025-Oct-17 08:46:16.084112 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 3061ms
+2025-Oct-17 08:46:27.499457 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 809ms
+2025-Oct-17 08:46:31.990421 [tid:0x16be1f000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:46:31.991639 [tid:0x16be1f000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687191 ...
+2025-Oct-17 08:46:32.004343 [tid:0x16be1f000] Serializing file with ver: 168
+2025-Oct-17 08:46:32.005170 [tid:0x16be1f000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687191, file size=3016
+2025-Oct-17 08:46:32.008315 [tid:0x16be1f000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3016 blockchain_size: 3382431
+2025-Oct-17 08:46:33.945746 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 845ms
+2025-Oct-17 08:46:39.815837 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 782ms
+2025-Oct-17 08:46:45.834902 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 809ms
+2025-Oct-17 08:46:51.825512 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 804ms
+2025-Oct-17 08:46:57.766225 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 754ms
+2025-Oct-17 08:47:02.419207 [tid:0x16c27f000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:47:02.420280 [tid:0x16c27f000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687222 ...
+2025-Oct-17 08:47:02.431717 [tid:0x16c27f000] Serializing file with ver: 168
+2025-Oct-17 08:47:02.432701 [tid:0x16c27f000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687222, file size=3016
+2025-Oct-17 08:47:02.435944 [tid:0x16c27f000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3016 blockchain_size: 3382431
+2025-Oct-17 08:47:03.846375 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 764ms
+2025-Oct-17 08:47:09.858641 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 814ms
+2025-Oct-17 08:47:15.835891 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 774ms
+2025-Oct-17 08:47:21.798740 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 785ms
+2025-Oct-17 08:47:27.777662 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 763ms
+2025-Oct-17 08:47:32.874263 [tid:0x16c883000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:47:32.874887 [tid:0x16c883000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687252 ...
+2025-Oct-17 08:47:32.882857 [tid:0x16c883000] Serializing file with ver: 168
+2025-Oct-17 08:47:32.883130 [tid:0x16c883000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687252, file size=3016
+2025-Oct-17 08:47:32.883930 [tid:0x16c883000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3016 blockchain_size: 3382431
+2025-Oct-17 08:47:33.879780 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 801ms
+2025-Oct-17 08:47:40.292671 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1211ms
+2025-Oct-17 08:47:46.802291 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 783ms
+2025-Oct-17 08:47:52.814260 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 801ms
+2025-Oct-17 08:47:58.868055 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 834ms
+2025-Oct-17 08:48:03.462095 [tid:0x16c7f7000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:48:03.464219 [tid:0x16c7f7000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687283 ...
+2025-Oct-17 08:48:03.478101 [tid:0x16c7f7000] Serializing file with ver: 168
+2025-Oct-17 08:48:03.479521 [tid:0x16c7f7000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687283, file size=3016
+2025-Oct-17 08:48:03.486537 [tid:0x16c7f7000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3016 blockchain_size: 3382431
+2025-Oct-17 08:48:04.910522 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 829ms
+2025-Oct-17 08:48:10.822009 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 812ms
+2025-Oct-17 08:48:16.773327 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 738ms
+2025-Oct-17 08:48:22.906491 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 835ms
+2025-Oct-17 08:48:29.045995 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 956ms
+2025-Oct-17 08:48:34.069244 [tid:0x16cb3f000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:48:34.071406 [tid:0x16cb3f000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687314 ...
+2025-Oct-17 08:48:34.085810 [tid:0x16cb3f000] Serializing file with ver: 168
+2025-Oct-17 08:48:34.087353 [tid:0x16cb3f000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687314, file size=3016
+2025-Oct-17 08:48:34.094994 [tid:0x16cb3f000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3016 blockchain_size: 3382431
+2025-Oct-17 08:48:35.883828 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 788ms
+2025-Oct-17 08:48:41.958603 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 860ms
+2025-Oct-17 08:48:48.506772 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1431ms
+2025-Oct-17 08:48:54.926455 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 891ms
+2025-Oct-17 08:49:00.876961 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 833ms
+2025-Oct-17 08:49:04.666307 [tid:0x16bd93000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:49:04.666626 [tid:0x16bd93000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687344 ...
+2025-Oct-17 08:49:04.673633 [tid:0x16bd93000] Serializing file with ver: 168
+2025-Oct-17 08:49:04.674132 [tid:0x16bd93000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687344, file size=3016
+2025-Oct-17 08:49:04.675142 [tid:0x16bd93000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3016 blockchain_size: 3382431
+2025-Oct-17 08:49:07.004513 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 934ms
+2025-Oct-17 08:49:15.586876 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2564ms
+2025-Oct-17 08:49:22.965569 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1868ms
+2025-Oct-17 08:49:28.678677 [tid:0x16ca27000] [BACKEND_M]Failed to call get_info
+2025-Oct-17 08:49:36.077268 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 8022ms
+2025-Oct-17 08:49:36.078574 [tid:0x16c883000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1001ms
+2025-Oct-17 08:49:36.224320 [tid:0x16c883000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:49:36.224895 [tid:0x16c883000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687376 ...
+2025-Oct-17 08:49:36.236463 [tid:0x16c883000] Serializing file with ver: 168
+2025-Oct-17 08:49:36.237315 [tid:0x16c883000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687376, file size=3016
+2025-Oct-17 08:49:36.238388 [tid:0x16c883000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3016 blockchain_size: 3382431
+2025-Oct-17 08:49:44.632809 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2632ms
+2025-Oct-17 08:49:55.014101 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 4992ms
+2025-Oct-17 08:50:05.121112 [tid:0x16ca27000] [BACKEND_M]Failed to call get_info
+2025-Oct-17 08:50:42.235572 [tid:0x16ca27000] [BACKEND_M]Failed to call get_info
+2025-Oct-17 08:55:48.883757 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 328682ms
+2025-Oct-17 08:55:48.885617 [tid:0x16bd93000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 323983ms
+2025-Oct-17 08:55:50.143379 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1256ms
+2025-Oct-17 08:55:50.146370 [tid:0x16d25b000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 325091ms
+2025-Oct-17 08:55:50.146546 [tid:0x16cbcb000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1258ms
+2025-Oct-17 08:55:56.798768 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 742ms
+2025-Oct-17 08:55:57.282134 [tid:0x16cce3000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:55:57.283739 [tid:0x16cce3000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687757 ...
+2025-Oct-17 08:55:57.296769 [tid:0x16cce3000] Serializing file with ver: 168
+2025-Oct-17 08:55:57.300540 [tid:0x16cce3000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687757, file size=3867
+2025-Oct-17 08:55:57.303587 [tid:0x16cce3000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3867 blockchain_size: 3382451
+2025-Oct-17 08:56:03.085914 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 993ms
+2025-Oct-17 08:56:10.211831 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1194ms
+2025-Oct-17 08:56:18.407336 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2406ms
+2025-Oct-17 08:56:25.308672 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1283ms
+2025-Oct-17 08:56:27.867141 [tid:0x16bd93000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:56:27.868214 [tid:0x16bd93000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687787 ...
+2025-Oct-17 08:56:27.882479 [tid:0x16bd93000] Serializing file with ver: 168
+2025-Oct-17 08:56:27.883474 [tid:0x16bd93000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687787, file size=3867
+2025-Oct-17 08:56:27.887180 [tid:0x16bd93000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3867 blockchain_size: 3382451
+2025-Oct-17 08:56:31.865280 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 820ms
+2025-Oct-17 08:56:37.918012 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 851ms
+2025-Oct-17 08:56:43.953479 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 940ms
+2025-Oct-17 08:56:51.135050 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2097ms
+2025-Oct-17 08:56:58.565428 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1495ms
+2025-Oct-17 08:56:59.356564 [tid:0x16ce87000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:56:59.358163 [tid:0x16ce87000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687819 ...
+2025-Oct-17 08:56:59.369537 [tid:0x16ce87000] Serializing file with ver: 168
+2025-Oct-17 08:56:59.370497 [tid:0x16ce87000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687819, file size=3867
+2025-Oct-17 08:56:59.374903 [tid:0x16ce87000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3867 blockchain_size: 3382451
+2025-Oct-17 08:57:04.952923 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 873ms
+2025-Oct-17 08:57:14.107426 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 4049ms
+2025-Oct-17 08:57:20.248728 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 3846ms
+2025-Oct-17 08:57:22.231597 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1983ms
+2025-Oct-17 08:57:29.091010 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1005ms
+2025-Oct-17 08:57:29.822626 [tid:0x16cbcb000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:57:29.823259 [tid:0x16cbcb000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687849 ...
+2025-Oct-17 08:57:29.834415 [tid:0x16cbcb000] Serializing file with ver: 168
+2025-Oct-17 08:57:29.834858 [tid:0x16cbcb000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687849, file size=3867
+2025-Oct-17 08:57:29.835995 [tid:0x16cbcb000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3867 blockchain_size: 3382453
+2025-Oct-17 08:57:36.083754 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1048ms
+2025-Oct-17 08:57:46.740164 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 4642ms
+2025-Oct-17 08:57:53.226894 [tid:0x16ca27000] [BACKEND_M]Failed to call get_info
+2025-Oct-17 08:58:06.787184 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1858ms
+2025-Oct-17 08:58:07.605255 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 818ms
+2025-Oct-17 08:58:13.942618 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 837ms
+2025-Oct-17 08:58:19.895147 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 836ms
+2025-Oct-17 08:58:26.363288 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1265ms
+2025-Oct-17 08:58:30.506075 [tid:0x16c27f000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:58:30.508115 [tid:0x16c27f000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687910 ...
+2025-Oct-17 08:58:30.520264 [tid:0x16c27f000] Serializing file with ver: 168
+2025-Oct-17 08:58:30.521704 [tid:0x16c27f000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687910, file size=3867
+2025-Oct-17 08:58:30.528839 [tid:0x16c27f000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3867 blockchain_size: 3382454
+2025-Oct-17 08:58:32.967915 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 879ms
+2025-Oct-17 08:58:38.962165 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 889ms
+2025-Oct-17 08:58:45.198063 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1133ms
+2025-Oct-17 08:58:52.102790 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1078ms
+2025-Oct-17 08:58:59.874919 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1833ms
+2025-Oct-17 08:59:01.082453 [tid:0x16c27f000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:59:01.084311 [tid:0x16c27f000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687941 ...
+2025-Oct-17 08:59:01.093179 [tid:0x16c27f000] Serializing file with ver: 168
+2025-Oct-17 08:59:01.094570 [tid:0x16c27f000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687941, file size=3867
+2025-Oct-17 08:59:01.101342 [tid:0x16c27f000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3867 blockchain_size: 3382454
+2025-Oct-17 08:59:09.067561 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 4003ms
+2025-Oct-17 08:59:12.039418 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1864ms
+2025-Oct-17 08:59:12.877608 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 838ms
+2025-Oct-17 08:59:18.951949 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 861ms
+2025-Oct-17 08:59:24.523243 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 4111ms
+2025-Oct-17 08:59:24.523722 [tid:0x16c27f000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1984ms
+2025-Oct-17 08:59:25.472616 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 949ms
+2025-Oct-17 08:59:31.893859 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 887ms
+2025-Oct-17 08:59:32.566842 [tid:0x16bd93000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 08:59:32.568598 [tid:0x16bd93000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687972 ...
+2025-Oct-17 08:59:32.582942 [tid:0x16bd93000] Serializing file with ver: 168
+2025-Oct-17 08:59:32.584672 [tid:0x16bd93000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760687972, file size=3867
+2025-Oct-17 08:59:32.592361 [tid:0x16bd93000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3867 blockchain_size: 3382458
+2025-Oct-17 08:59:37.871486 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 859ms
+2025-Oct-17 08:59:43.931720 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 853ms
+2025-Oct-17 08:59:49.946597 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 916ms
+2025-Oct-17 08:59:59.038075 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 4002ms
+2025-Oct-17 09:00:04.531261 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1370ms
+2025-Oct-17 09:00:11.216385 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1160ms
+2025-Oct-17 09:00:18.010223 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 983ms
+2025-Oct-17 09:00:25.058134 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1017ms
+2025-Oct-17 09:00:33.603292 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2585ms
+2025-Oct-17 09:00:33.604015 [tid:0x16bd93000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 539ms
+2025-Oct-17 09:00:34.420564 [tid:0x16bd93000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:00:34.447760 [tid:0x16bd93000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688034 ...
+2025-Oct-17 09:00:34.457568 [tid:0x16bd93000] Serializing file with ver: 168
+2025-Oct-17 09:00:34.460995 [tid:0x16bd93000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688034, file size=3867
+2025-Oct-17 09:00:34.465357 [tid:0x16bd93000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3867 blockchain_size: 3382458
+2025-Oct-17 09:00:40.625285 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1592ms
+2025-Oct-17 09:00:48.281892 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2271ms
+2025-Oct-17 09:00:50.066199 [tid:0x16bd93000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:00:50.068503 [tid:0x16bd93000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688050 ...
+2025-Oct-17 09:00:50.073659 [tid:0x16bd93000] Serializing file with ver: 168
+2025-Oct-17 09:00:50.076566 [tid:0x16bd93000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688050, file size=3867
+2025-Oct-17 09:00:50.081067 [tid:0x16bd93000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3867 blockchain_size: 3382458
+2025-Oct-17 09:00:57.381530 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 3381ms
+2025-Oct-17 09:00:57.382291 [tid:0x16cbcb000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1615ms
+2025-Oct-17 09:01:06.019588 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2924ms
+2025-Oct-17 09:01:13.891295 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1850ms
+2025-Oct-17 09:01:23.319959 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 4231ms
+2025-Oct-17 09:01:23.321843 [tid:0x16c27f000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2885ms
+2025-Oct-17 09:01:23.653217 [tid:0x16be1f000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:01:23.654304 [tid:0x16be1f000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688083 ...
+2025-Oct-17 09:01:23.667476 [tid:0x16be1f000] Serializing file with ver: 168
+2025-Oct-17 09:01:23.669473 [tid:0x16be1f000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688083, file size=3867
+2025-Oct-17 09:01:23.672933 [tid:0x16be1f000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3867 blockchain_size: 3382458
+2025-Oct-17 09:01:31.175157 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2135ms
+2025-Oct-17 09:01:40.012028 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 3005ms
+2025-Oct-17 09:01:40.012505 [tid:0x16d2e7000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1494ms
+2025-Oct-17 09:01:46.902074 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 839ms
+2025-Oct-17 09:01:54.977491 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2976ms
+2025-Oct-17 09:01:54.978938 [tid:0x16bfc3000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 878ms
+2025-Oct-17 09:01:59.996825 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 4914ms
+2025-Oct-17 09:01:59.998612 [tid:0x16bfc3000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:02:00.000639 [tid:0x16bfc3000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688119 ...
+2025-Oct-17 09:02:00.012563 [tid:0x16bfc3000] Serializing file with ver: 168
+2025-Oct-17 09:02:00.014147 [tid:0x16bfc3000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688119, file size=3868
+2025-Oct-17 09:02:00.021953 [tid:0x16bfc3000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3868 blockchain_size: 3382460
+2025-Oct-17 09:02:00.022316 [tid:0x16bfc3000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 4726ms
+2025-Oct-17 09:02:03.449205 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 3426ms
+2025-Oct-17 09:02:03.449796 [tid:0x16bfc3000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2480ms
+2025-Oct-17 09:02:09.896004 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 798ms
+2025-Oct-17 09:02:16.330048 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1319ms
+2025-Oct-17 09:02:24.018078 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1960ms
+2025-Oct-17 09:02:30.826692 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 785ms
+2025-Oct-17 09:02:30.869029 [tid:0x16c7f7000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:02:30.869692 [tid:0x16c7f7000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688150 ...
+2025-Oct-17 09:02:30.872550 [tid:0x16c7f7000] Serializing file with ver: 168
+2025-Oct-17 09:02:30.873113 [tid:0x16c7f7000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688150, file size=3868
+2025-Oct-17 09:02:30.875246 [tid:0x16c7f7000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3868 blockchain_size: 3382460
+2025-Oct-17 09:02:37.926617 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1824ms
+2025-Oct-17 09:02:44.104504 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1086ms
+2025-Oct-17 09:02:53.611800 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 3569ms
+2025-Oct-17 09:02:59.799017 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 786ms
+2025-Oct-17 09:03:01.465589 [tid:0x16be1f000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:03:01.467452 [tid:0x16be1f000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688181 ...
+2025-Oct-17 09:03:01.481644 [tid:0x16be1f000] Serializing file with ver: 168
+2025-Oct-17 09:03:01.482905 [tid:0x16be1f000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688181, file size=3868
+2025-Oct-17 09:03:01.488015 [tid:0x16be1f000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3868 blockchain_size: 3382460
+2025-Oct-17 09:03:05.837981 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 828ms
+2025-Oct-17 09:03:11.982823 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 947ms
+2025-Oct-17 09:03:17.989903 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 914ms
+2025-Oct-17 09:03:25.613124 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2514ms
+2025-Oct-17 09:03:32.833631 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1809ms
+2025-Oct-17 09:03:32.834364 [tid:0x16c7f7000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1072ms
+2025-Oct-17 09:03:32.879705 [tid:0x16c7f7000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:03:32.880872 [tid:0x16c7f7000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688212 ...
+2025-Oct-17 09:03:32.893494 [tid:0x16c7f7000] Serializing file with ver: 168
+2025-Oct-17 09:03:32.894648 [tid:0x16c7f7000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688212, file size=3868
+2025-Oct-17 09:03:32.898209 [tid:0x16c7f7000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3868 blockchain_size: 3382460
+2025-Oct-17 09:03:39.494700 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1445ms
+2025-Oct-17 09:03:46.392537 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1359ms
+2025-Oct-17 09:03:53.574235 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1483ms
+2025-Oct-17 09:04:02.543806 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 3455ms
+2025-Oct-17 09:04:03.438350 [tid:0x16bfc3000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:04:03.439719 [tid:0x16bfc3000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688243 ...
+2025-Oct-17 09:04:03.451871 [tid:0x16bfc3000] Serializing file with ver: 168
+2025-Oct-17 09:04:03.453495 [tid:0x16bfc3000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688243, file size=3868
+2025-Oct-17 09:04:03.458624 [tid:0x16bfc3000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3868 blockchain_size: 3382460
+2025-Oct-17 09:04:09.801605 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1747ms
+2025-Oct-17 09:04:16.587893 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1485ms
+2025-Oct-17 09:04:24.114414 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2017ms
+2025-Oct-17 09:04:32.331470 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2319ms
+2025-Oct-17 09:04:33.861068 [tid:0x16cc57000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:04:33.861272 [tid:0x16cc57000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688273 ...
+2025-Oct-17 09:04:33.863937 [tid:0x16cc57000] Serializing file with ver: 168
+2025-Oct-17 09:04:33.864610 [tid:0x16cc57000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688273, file size=3868
+2025-Oct-17 09:04:33.867359 [tid:0x16cc57000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3868 blockchain_size: 3382460
+2025-Oct-17 09:04:40.796204 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2722ms
+2025-Oct-17 09:04:47.247072 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1240ms
+2025-Oct-17 09:04:56.331472 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 3273ms
+2025-Oct-17 09:05:03.445023 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1398ms
+2025-Oct-17 09:05:04.473453 [tid:0x16be1f000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:05:04.475428 [tid:0x16be1f000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688304 ...
+2025-Oct-17 09:05:04.478637 [tid:0x16be1f000] Serializing file with ver: 168
+2025-Oct-17 09:05:04.480304 [tid:0x16be1f000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688304, file size=3868
+2025-Oct-17 09:05:04.485735 [tid:0x16be1f000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3868 blockchain_size: 3382460
+2025-Oct-17 09:05:13.408649 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 4341ms
+2025-Oct-17 09:05:13.408857 [tid:0x16c90f000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 3756ms
+2025-Oct-17 09:05:20.114004 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1096ms
+2025-Oct-17 09:05:27.181336 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1140ms
+2025-Oct-17 09:05:34.376457 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1283ms
+2025-Oct-17 09:05:41.710686 [tid:0x16ca27000] [BACKEND_M]Failed to call get_info
+2025-Oct-17 09:05:47.781192 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 7775ms
+2025-Oct-17 09:05:47.782886 [tid:0x16d373000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 7663ms
+2025-Oct-17 09:05:47.792903 [tid:0x16d6bb000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 6958ms
+2025-Oct-17 09:05:54.331166 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1316ms
+2025-Oct-17 09:06:00.920948 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 797ms
+2025-Oct-17 09:06:07.234941 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1129ms
+2025-Oct-17 09:06:14.073578 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1055ms
+2025-Oct-17 09:08:40.822200 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1652ms
+2025-Oct-17 09:08:40.825275 [tid:0x16cc57000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 575ms
+2025-Oct-17 09:08:44.349246 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 3420ms
+2025-Oct-17 09:08:44.350086 [tid:0x172177000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2471ms
+2025-Oct-17 09:08:45.476437 [tid:0x16c27f000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:08:45.478337 [tid:0x16c27f000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688525 ...
+2025-Oct-17 09:08:45.492021 [tid:0x16c27f000] Serializing file with ver: 168
+2025-Oct-17 09:08:45.497651 [tid:0x16c27f000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688525, file size=3936
+2025-Oct-17 09:08:45.501221 [tid:0x16c27f000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3936 blockchain_size: 3382462
+2025-Oct-17 09:08:46.774966 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 759ms
+2025-Oct-17 09:08:52.726262 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1983ms
+2025-Oct-17 09:08:52.726833 [tid:0x16be1f000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 757ms
+2025-Oct-17 09:08:57.283846 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 4557ms
+2025-Oct-17 09:08:57.284412 [tid:0x16ce87000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 3220ms
+2025-Oct-17 09:09:04.181304 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1154ms
+2025-Oct-17 09:09:04.182146 [tid:0x16bfc3000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1005ms
+2025-Oct-17 09:09:12.452636 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2448ms
+2025-Oct-17 09:09:15.875812 [tid:0x16c76b000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:09:15.876580 [tid:0x16c76b000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688555 ...
+2025-Oct-17 09:09:15.879649 [tid:0x16c76b000] Serializing file with ver: 168
+2025-Oct-17 09:09:15.880554 [tid:0x16c76b000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688555, file size=3936
+2025-Oct-17 09:09:15.883829 [tid:0x16c76b000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3936 blockchain_size: 3382463
+2025-Oct-17 09:09:20.359972 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2303ms
+2025-Oct-17 09:09:27.013798 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 928ms
+2025-Oct-17 09:09:33.859621 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 808ms
+2025-Oct-17 09:09:41.215334 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2043ms
+2025-Oct-17 09:09:47.873860 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 853ms
+2025-Oct-17 09:09:53.879812 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 879ms
+2025-Oct-17 09:11:03.441041 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 64396ms
+2025-Oct-17 09:11:11.226542 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2144ms
+2025-Oct-17 09:11:11.227851 [tid:0x172203000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1736ms
+2025-Oct-17 09:11:11.693994 [tid:0x16bfc3000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:11:11.695243 [tid:0x16bfc3000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688671 ...
+2025-Oct-17 09:11:11.708349 [tid:0x16bfc3000] Serializing file with ver: 168
+2025-Oct-17 09:11:11.710528 [tid:0x16bfc3000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688671, file size=3936
+2025-Oct-17 09:11:11.714695 [tid:0x16bfc3000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3936 blockchain_size: 3382463
+2025-Oct-17 09:11:17.861184 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 843ms
+2025-Oct-17 09:11:24.022321 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 975ms
+2025-Oct-17 09:11:30.984117 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 942ms
+2025-Oct-17 09:11:43.170677 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1144ms
+2025-Oct-17 09:11:43.172073 [tid:0x16c7f7000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1106ms
+2025-Oct-17 09:11:43.282285 [tid:0x16c7f7000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:11:43.284576 [tid:0x16c7f7000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688703 ...
+2025-Oct-17 09:11:43.298742 [tid:0x16c7f7000] Serializing file with ver: 168
+2025-Oct-17 09:11:43.300391 [tid:0x16c7f7000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688703, file size=3936
+2025-Oct-17 09:11:43.307820 [tid:0x16c7f7000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3936 blockchain_size: 3382463
+2025-Oct-17 09:11:47.611265 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1830ms
+2025-Oct-17 09:11:50.285119 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1224ms
+2025-Oct-17 09:11:57.264019 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1262ms
+2025-Oct-17 09:11:57.915349 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 549ms
+2025-Oct-17 09:12:03.986694 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 907ms
+2025-Oct-17 09:12:09.888429 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 819ms
+2025-Oct-17 09:12:09.888612 [tid:0x16cc57000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 577ms
+2025-Oct-17 09:12:13.708383 [tid:0x16cbcb000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:12:13.709577 [tid:0x16cbcb000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688733 ...
+2025-Oct-17 09:12:13.721353 [tid:0x16cbcb000] Serializing file with ver: 168
+2025-Oct-17 09:12:13.722990 [tid:0x16cbcb000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688733, file size=3936
+2025-Oct-17 09:12:13.725211 [tid:0x16cbcb000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3936 blockchain_size: 3382467
+2025-Oct-17 09:12:15.871546 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 790ms
+2025-Oct-17 09:12:22.365969 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1310ms
+2025-Oct-17 09:12:28.893099 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 817ms
+2025-Oct-17 09:12:38.907915 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 4824ms
+2025-Oct-17 09:12:45.351295 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1315ms
+2025-Oct-17 09:12:45.358583 [tid:0x16be1f000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:12:45.359721 [tid:0x16be1f000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688765 ...
+2025-Oct-17 09:12:45.371344 [tid:0x16be1f000] Serializing file with ver: 168
+2025-Oct-17 09:12:45.372339 [tid:0x16be1f000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688765, file size=3936
+2025-Oct-17 09:12:45.375223 [tid:0x16be1f000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3936 blockchain_size: 3382467
+2025-Oct-17 09:12:45.375434 [tid:0x16be1f000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1268ms
+2025-Oct-17 09:12:51.915304 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 858ms
+2025-Oct-17 09:12:51.915809 [tid:0x16be1f000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 810ms
+2025-Oct-17 09:12:57.964872 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 867ms
+2025-Oct-17 09:13:03.869420 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 800ms
+2025-Oct-17 09:13:10.511417 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1442ms
+2025-Oct-17 09:13:17.175287 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1153ms
+2025-Oct-17 09:13:17.176532 [tid:0x16c883000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 715ms
+2025-Oct-17 09:13:17.655891 [tid:0x16c883000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:13:17.657437 [tid:0x16c883000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688797 ...
+2025-Oct-17 09:13:17.669886 [tid:0x16c883000] Serializing file with ver: 168
+2025-Oct-17 09:13:17.671254 [tid:0x16c883000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688797, file size=3936
+2025-Oct-17 09:13:17.676486 [tid:0x16c883000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3936 blockchain_size: 3382467
+2025-Oct-17 09:13:24.038445 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 944ms
+2025-Oct-17 09:13:30.856984 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 775ms
+2025-Oct-17 09:13:37.121628 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1067ms
+2025-Oct-17 09:13:44.320987 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1244ms
+2025-Oct-17 09:13:48.101589 [tid:0x16c883000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:13:48.102358 [tid:0x16c883000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688828 ...
+2025-Oct-17 09:13:48.113632 [tid:0x16c883000] Serializing file with ver: 168
+2025-Oct-17 09:13:48.114259 [tid:0x16c883000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688828, file size=3936
+2025-Oct-17 09:13:48.115250 [tid:0x16c883000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3936 blockchain_size: 3382467
+2025-Oct-17 09:13:52.198754 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2175ms
+2025-Oct-17 09:14:01.117528 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 3038ms
+2025-Oct-17 09:14:08.115688 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1082ms
+2025-Oct-17 09:14:15.983144 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1952ms
+2025-Oct-17 09:14:20.347550 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2592ms
+2025-Oct-17 09:14:20.348820 [tid:0x16bd93000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1871ms
+2025-Oct-17 09:14:20.649716 [tid:0x16bd93000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:14:20.651065 [tid:0x16bd93000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688860 ...
+2025-Oct-17 09:14:20.663177 [tid:0x16bd93000] Serializing file with ver: 168
+2025-Oct-17 09:14:20.666533 [tid:0x16bd93000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688860, file size=3936
+2025-Oct-17 09:14:20.673236 [tid:0x16bd93000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=3936 blockchain_size: 3382469
+2025-Oct-17 09:14:21.887754 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 811ms
+2025-Oct-17 09:14:27.890210 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 810ms
+2025-Oct-17 09:14:29.889754 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1584ms
+2025-Oct-17 09:14:33.908505 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 808ms
+2025-Oct-17 09:14:42.502665 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 3420ms
+2025-Oct-17 09:14:49.523618 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1501ms
+2025-Oct-17 09:14:52.086062 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2037ms
+2025-Oct-17 09:14:52.087809 [tid:0x16be1f000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1141ms
+2025-Oct-17 09:14:52.108434 [tid:0x16be1f000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:14:52.110215 [tid:0x16be1f000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688892 ...
+2025-Oct-17 09:14:52.122219 [tid:0x16be1f000] Serializing file with ver: 168
+2025-Oct-17 09:14:52.123684 [tid:0x16be1f000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688892, file size=4008
+2025-Oct-17 09:14:52.130844 [tid:0x16be1f000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=4008 blockchain_size: 3382472
+2025-Oct-17 09:14:55.864500 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 771ms
+2025-Oct-17 09:15:01.737922 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 686ms
+2025-Oct-17 09:15:07.830347 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 799ms
+2025-Oct-17 09:15:14.059517 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1057ms
+2025-Oct-17 09:15:20.997900 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 894ms
+2025-Oct-17 09:15:22.701629 [tid:0x16be1f000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:15:22.702564 [tid:0x16be1f000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688922 ...
+2025-Oct-17 09:15:22.716224 [tid:0x16be1f000] Serializing file with ver: 168
+2025-Oct-17 09:15:22.716755 [tid:0x16be1f000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688922, file size=4008
+2025-Oct-17 09:15:22.718326 [tid:0x16be1f000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=4008 blockchain_size: 3382472
+2025-Oct-17 09:15:26.907931 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 821ms
+2025-Oct-17 09:15:33.527216 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1521ms
+2025-Oct-17 09:15:39.909630 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 865ms
+2025-Oct-17 09:15:45.893068 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 789ms
+2025-Oct-17 09:15:51.886593 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 783ms
+2025-Oct-17 09:15:53.105916 [tid:0x16c76b000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:15:53.108190 [tid:0x16c76b000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688953 ...
+2025-Oct-17 09:15:53.121837 [tid:0x16c76b000] Serializing file with ver: 168
+2025-Oct-17 09:15:53.123684 [tid:0x16c76b000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688953, file size=4008
+2025-Oct-17 09:15:53.130670 [tid:0x16c76b000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=4008 blockchain_size: 3382472
+2025-Oct-17 09:15:57.851821 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 774ms
+2025-Oct-17 09:16:05.253706 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2220ms
+2025-Oct-17 09:16:12.104316 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1028ms
+2025-Oct-17 09:16:18.822911 [tid:0x16ca27000] [BACKEND_M]Failed to call get_info
+2025-Oct-17 09:16:27.203008 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 9184ms
+2025-Oct-17 09:16:36.188278 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 3167ms
+2025-Oct-17 09:16:36.285180 [tid:0x16c90f000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:16:36.286335 [tid:0x16c90f000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688996 ...
+2025-Oct-17 09:16:36.289875 [tid:0x16c90f000] Serializing file with ver: 168
+2025-Oct-17 09:16:36.291102 [tid:0x16c90f000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760688996, file size=4008
+2025-Oct-17 09:16:36.292367 [tid:0x16c90f000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=4008 blockchain_size: 3382472
+2025-Oct-17 09:16:43.903560 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1865ms
+2025-Oct-17 09:16:50.062558 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 962ms
+2025-Oct-17 09:16:56.801299 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 800ms
+2025-Oct-17 09:17:04.663999 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2578ms
+2025-Oct-17 09:17:06.770346 [tid:0x16c90f000] (before storing: pending_key_images: 0, pki file elements: 0, tx_keys: 0)
+2025-Oct-17 09:17:06.770884 [tid:0x16c90f000] [W:ZxD6cp] Storing to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760689026 ...
+2025-Oct-17 09:17:06.772285 [tid:0x16c90f000] Serializing file with ver: 168
+2025-Oct-17 09:17:06.772472 [tid:0x16c90f000] [W:ZxD6cp] Stored successfully to temporary file /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039.newtmp_1760689026, file size=4008
+2025-Oct-17 09:17:06.773254 [tid:0x16c90f000] [W:ZxD6cp] Wallet was successfully stored to /var/mobile/Containers/Data/Application/80FDB092-21FB-46AF-B9AA-799E9460EF48/Documents/wallets/60DDE425-2A51-4403-A0C9-A25446B04039, file size=4008 blockchain_size: 3382472
+2025-Oct-17 09:17:10.962183 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 890ms
+2025-Oct-17 09:17:17.133684 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 1038ms
+2025-Oct-17 09:17:23.948036 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 778ms
+2025-Oct-17 09:17:34.092251 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 4958ms
+2025-Oct-17 09:17:43.032530 [tid:0x16cf13000] [wallet_lock_time_watching_policy::watch_lock_time] LOCK_TIME: 2995ms
