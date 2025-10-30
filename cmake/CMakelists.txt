@@ -1,0 +1,95 @@
+cmake_minimum_required(VERSION 3.20)
+project(srbminner VERSION 1.0.0 LANGUAGES C CXX)
+
+# -------------------------------------------------------
+# 🧰 Basic settings
+# -------------------------------------------------------
+set(CMAKE_C_STANDARD 11)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_POSITION_INDEPENDENT_CODE ON)
+
+# Default to Release build
+if(NOT CMAKE_BUILD_TYPE)
+  set(CMAKE_BUILD_TYPE Release CACHE STRING "Build type" FORCE)
+endif()
+
+# -------------------------------------------------------
+# 🔒 Security & performance flags
+# -------------------------------------------------------
+add_compile_options(
+  -Wall -Wextra -Wpedantic
+  -Wformat -Werror=format-security
+  -fstack-protector-strong
+  -D_FORTIFY_SOURCE=2
+  -fPIE
+  -fvisibility=hidden
+  $<$<CONFIG:Release>:-O3>
+)
+
+# -------------------------------------------------------
+# 🧩 Dependencies
+# -------------------------------------------------------
+
+# Try to find OpenSSL for crypto functions
+find_package(OpenSSL REQUIRED)
+if (OPENSSL_FOUND)
+  message(STATUS "✅ Found OpenSSL: ${OPENSSL_VERSION}")
+else()
+  message(FATAL_ERROR "❌ OpenSSL not found — required for cryptographic functions.")
+endif()
+
+# Optional GPU support
+option(ENABLE_CUDA "Enable CUDA support for GPU mining" OFF)
+option(ENABLE_OPENCL "Enable OpenCL support for GPU mining" OFF)
+
+if(ENABLE_CUDA)
+  find_package(CUDA REQUIRED)
+  message(STATUS "🚀 CUDA mining enabled")
+endif()
+
+if(ENABLE_OPENCL)
+  find_package(OpenCL REQUIRED)
+  message(STATUS "🚀 OpenCL mining enabled")
+endif()
+
+# -------------------------------------------------------
+# 📂 Project source files
+# -------------------------------------------------------
+file(GLOB_RECURSE SRC_FILES
+  src/*.c
+  src/*.cpp
+  include/*.h
+)
+
+add_executable(srbminner ${SRC_FILES})
+
+# Include directories
+target_include_directories(srbminner PRIVATE include)
+
+# Link crypto & GPU libs
+target_link_libraries(srbminner PRIVATE OpenSSL::Crypto)
+
+if(ENABLE_CUDA)
+  target_link_libraries(srbminner PRIVATE CUDA::cudart)
+endif()
+
+if(ENABLE_OPENCL)
+  target_link_libraries(srbminner PRIVATE OpenCL::OpenCL)
+endif()
+
+# -------------------------------------------------------
+# 🧾 Install rules
+# -------------------------------------------------------
+install(TARGETS srbminner RUNTIME DESTINATION bin)
+
+# -------------------------------------------------------
+# 🧠 Developer info
+# -------------------------------------------------------
+message(STATUS "--------------------------------------------------")
+message(STATUS "  srbminner build configuration:")
+message(STATUS "    Build type: ${CMAKE_BUILD_TYPE}")
+message(STATUS "    Source dir: ${PROJECT_SOURCE_DIR}")
+message(STATUS "    Binary dir: ${PROJECT_BINARY_DIR}")
+message(STATUS "    OpenSSL:    ${OPENSSL_VERSION}")
+message(STATUS "--------------------------------------------------")
