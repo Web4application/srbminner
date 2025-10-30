@@ -1,0 +1,7 @@
+miner:
+  threads: 4
+  mode: cpu
+ai:
+  enabled: true
+web:
+  port: 8000
