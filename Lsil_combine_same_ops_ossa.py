@@ -1,5 +1,4 @@
 // RUN: %target-sil-opt -enable-sil-verify-all %s -sil-combine | %FileCheck %s
-
 // Test optimization of various builtins which receive the same value in their first and second operand.
 
 sil_stage canonical
